@@ -18,3 +18,23 @@
 1. [Dracula Theme](https://draculatheme.com/)
 2. Rocketseat Plugins - VS Code
 3. [Font Fira Code](https://github.com/tonsky/FiraCode)
+
+## Primeiros passos
+
+* Backend
+
+``` bash
+# iniciar projeto backend
+yarn init -y
+# rodar projeto backend
+yarn dev
+```
+
+* Frontend
+
+``` bash
+# iniciar projeto frontend
+yarn create react-app frontend
+# rodar projeto frontend
+yarn start
+```
